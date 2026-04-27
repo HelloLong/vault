@@ -7,6 +7,8 @@
     "obsidian-git:pull",
     "obsidian-git:push",
     "obsidian-git:switch-to-remote-branch",
-    "obsidian-git:switch-branch"
+    "obsidian-git:switch-branch",
+    "obsidian-git:remove-remote",
+    "obsidian-git:reset-hunk"
   ]
 }

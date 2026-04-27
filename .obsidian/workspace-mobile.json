@@ -1,0 +1,448 @@
+{
+  "main": {
+    "id": "fc05a86d222c89a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "19b8e4f9c780345c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10ed570ff6b4b925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00meta/resume.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "resume"
+            }
+          },
+          {
+            "id": "dc156f7b309fa8ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1daily/20260425.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260425"
+            }
+          },
+          {
+            "id": "de3210825ab8f05e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0inbox/小红书 卡片笔记写作法 工作流程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "小红书 卡片笔记写作法 工作流程"
+            }
+          },
+          {
+            "id": "ad46c9d8ea9862ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0inbox/小红书 卡片笔记写作法 工作流程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "小红书 卡片笔记写作法 工作流程"
+            }
+          },
+          {
+            "id": "d1803890f8e02b5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0inbox/kimi 关于moc的思考.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "kimi 关于moc的思考"
+            }
+          },
+          {
+            "id": "6a6ef11cb5cddea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0inbox/kimi 如何判断应该进入 literature or permanent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "kimi 如何判断应该进入 literature or permanent"
+            }
+          },
+          {
+            "id": "318b9d75d3978913",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0inbox/小红书 卡片笔记写作法 工作流程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "小红书 卡片笔记写作法 工作流程"
+            }
+          },
+          {
+            "id": "4609979d4be12277",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03permanent/卡片笔记法成本.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "卡片笔记法成本"
+            }
+          },
+          {
+            "id": "97df34620b5304f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03permanent/保持健康.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "保持健康"
+            }
+          },
+          {
+            "id": "d84a214395b1ea7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03permanent/双向链接的原则.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "双向链接的原则"
+            }
+          },
+          {
+            "id": "7563c8ab77c1c771",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01inbox/小红书 卡片笔记法 三类笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "小红书 卡片笔记法 三类笔记"
+            },
+            "group": "bed65eeea3b1bb0a"
+          },
+          {
+            "id": "964d53d986fbf9fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03permanent/卡片笔记法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "卡片笔记法"
+            }
+          },
+          {
+            "id": "44b958226f5103a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03permanent/卡片笔记怎么用 Obsidian的笔记怎么设计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "卡片笔记怎么用 Obsidian的笔记怎么设计"
+            }
+          },
+          {
+            "id": "73d349d6265c76ae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ],
+        "currentTab": 13
+      },
+      {
+        "id": "aee542c4333320ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "652a4c41539c08ef",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "03permanent/古老的夏威夷宽恕仪式.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            },
+            "group": "bed65eeea3b1bb0a"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46d09e6b81d62661",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9723c0b81037394d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "dc77f3f605f57eaf",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "e847d3196f2abb91",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "0d037a62d02996f4",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      },
+      {
+        "id": "fdc552afe74be5e0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "54cc36c9e2077970",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4af38ea7ac77ab88",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "03permanent/古老的夏威夷宽恕仪式.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "2d983dcc20eaee52",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "02daily/20260425.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "26b3389b0c31f94f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "03permanent/卡片笔记怎么用 Obsidian的笔记怎么设计.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      },
+      {
+        "id": "c11dca26c9cae1fd",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9723c0b81037394d",
+  "lastOpenFiles": [
+    "03permanent/卡片笔记怎么用 Obsidian的笔记怎么设计.md",
+    "vault",
+    "02daily/未命名.md",
+    "202604271652.md",
+    "未命名.base",
+    "06templates/{{date}}.md",
+    "未命名 2.md",
+    "未命名 1.md",
+    "未命名.md",
+    "03permanent/ai接入后的卡片笔记.md",
+    "02daily/20260425.md",
+    "03permanent/GRE 3000错题集.md",
+    "08meta/resume.md",
+    "03permanent/卡片笔记法核心要点总结_原教旨.md",
+    "07assets/ai zettlekasten.jpg",
+    "07assets/obsidian web clipper.jpg",
+    "07assets/Introduction to the Zettelkasten Method.png",
+    "03permanent/卡片笔记法.md",
+    "卡片笔记法.md",
+    "03permanent/卡片笔记双向链接的原则.md",
+    "test.md",
+    "01inbox/小红书 卡片笔记法 三类笔记.md",
+    "01inbox/kimi 如何判断应该进入 literature or permanent.md",
+    "01inbox/kimi 关于moc的思考.md",
+    "01inbox/小红书 卡片笔记写作法 工作流程.md",
+    "03permanent/保持健康.md",
+    "03permanent/古老的夏威夷宽恕仪式.md",
+    "03permanent/卡片笔记法优劣分析.md",
+    "03permanent/卡片笔记法成本.md",
+    "08archive",
+    "06templates",
+    "07assets",
+    "05projects",
+    "03permanent",
+    "04moc",
+    "2literature",
+    "01inbox"
+  ]
+}

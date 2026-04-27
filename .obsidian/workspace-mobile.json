@@ -190,19 +190,9 @@
               "icon": "lucide-file",
               "title": "卡片笔记怎么用 Obsidian的笔记怎么设计"
             }
-          },
-          {
-            "id": "73d349d6265c76ae",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       },
       {
         "id": "aee542c4333320ed",
@@ -405,7 +395,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73d349d6265c76ae",
+  "active": "44b958226f5103a7",
   "lastOpenFiles": [
     "03permanent/卡片笔记怎么用 Obsidian的笔记怎么设计.md",
     "vault",

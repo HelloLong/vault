@@ -2,6 +2,11 @@
   "pinned": [
     "obsidian-git:edit-remotes",
     "obsidian-git:init-repo",
-    "obsidian-git:commit-smart"
+    "obsidian-git:commit-smart",
+    "obsidian-git:set-upstream-branch",
+    "obsidian-git:pull",
+    "obsidian-git:push",
+    "obsidian-git:switch-to-remote-branch",
+    "obsidian-git:switch-branch"
   ]
 }

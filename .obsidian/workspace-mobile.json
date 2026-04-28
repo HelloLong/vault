@@ -197,16 +197,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02daily/20260427.md",
+                "file": "06templates/{{date}}.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260427"
+              "title": "{{date}}"
+            }
+          },
+          {
+            "id": "15021ad55ff3e01d",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace-mobile.json",
+                "bFile": ".obsidian/workspace-mobile.json",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: workspace-mobile.json"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       },
       {
         "id": "aee542c4333320ed",
@@ -409,19 +423,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c42be98c006c45b8",
+  "active": "15021ad55ff3e01d",
   "lastOpenFiles": [
-    "02daily/20260425.md",
-    "08meta/resume.md",
+    "02daily/20260428.md",
     "02daily/20260427.md",
+    "06templates/daily.md",
+    "未命名.md",
+    "未命名 1.md",
+    "06templates/{{date}}.md",
+    "02daily/20260425.md",
+    "02daily/未命名.md",
+    "08meta/resume.md",
     "03permanent/卡片笔记怎么用 Obsidian的笔记怎么设计.md",
     "vault",
-    "02daily/20260427.md",
     "202604271652.md",
     "未命名.base",
-    "06templates/{{date}}.md",
     "未命名 2.md",
-    "未命名 1.md",
     "03permanent/ai接入后的卡片笔记.md",
     "03permanent/GRE 3000错题集.md",
     "03permanent/卡片笔记法核心要点总结_原教旨.md",
@@ -439,7 +456,6 @@
     "03permanent/保持健康.md",
     "03permanent/古老的夏威夷宽恕仪式.md",
     "03permanent/卡片笔记法优劣分析.md",
-    "03permanent/卡片笔记法成本.md",
     "08archive",
     "06templates",
     "07assets",

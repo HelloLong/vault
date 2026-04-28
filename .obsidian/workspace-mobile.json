@@ -209,14 +209,14 @@
             "id": "15021ad55ff3e01d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace-mobile.json",
-                "bFile": ".obsidian/workspace-mobile.json",
-                "aRef": ""
+                "file": "02daily/20260428.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: workspace-mobile.json"
+              "icon": "lucide-file",
+              "title": "20260428"
             }
           }
         ],
@@ -425,6 +425,7 @@
   },
   "active": "15021ad55ff3e01d",
   "lastOpenFiles": [
+    "03permanent/GRE 3000错题集.md",
     "02daily/20260428.md",
     "02daily/20260427.md",
     "06templates/daily.md",
@@ -440,7 +441,6 @@
     "未命名.base",
     "未命名 2.md",
     "03permanent/ai接入后的卡片笔记.md",
-    "03permanent/GRE 3000错题集.md",
     "03permanent/卡片笔记法核心要点总结_原教旨.md",
     "07assets/ai zettlekasten.jpg",
     "07assets/obsidian web clipper.jpg",

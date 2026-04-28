@@ -209,14 +209,14 @@
             "id": "15021ad55ff3e01d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace-mobile.json",
-                "bFile": ".obsidian/workspace-mobile.json",
-                "aRef": ""
+                "file": "08meta/resume.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: workspace-mobile.json"
+              "icon": "lucide-file",
+              "title": "resume"
             }
           }
         ],
@@ -280,7 +280,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "文件列表"
@@ -343,7 +343,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 0
   },
   "right": {
     "id": "54cc36c9e2077970",
@@ -433,7 +433,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e847d3196f2abb91",
+  "active": "c11dca26c9cae1fd",
   "lastOpenFiles": [
     "02daily/20260428.md",
     "03permanent/GRE 3000错题集.md",

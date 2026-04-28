@@ -209,14 +209,14 @@
             "id": "15021ad55ff3e01d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "02daily/20260428.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace-mobile.json",
+                "bFile": ".obsidian/workspace-mobile.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "20260428"
+              "icon": "git-pull-request",
+              "title": "Diff: workspace-mobile.json"
             }
           }
         ],
@@ -343,7 +343,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "right": {
     "id": "54cc36c9e2077970",
@@ -418,7 +418,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -433,10 +433,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15021ad55ff3e01d",
+  "active": "e847d3196f2abb91",
   "lastOpenFiles": [
-    "03permanent/GRE 3000错题集.md",
     "02daily/20260428.md",
+    "03permanent/GRE 3000错题集.md",
     "02daily/20260427.md",
     "06templates/daily.md",
     "未命名.md",

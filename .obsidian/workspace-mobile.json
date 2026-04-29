@@ -253,12 +253,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03permanent/系统论与国学渊源.md",
+                "file": "03permanent/保持健康.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "系统论与国学渊源"
+              "title": "保持健康"
             }
           }
         ],
@@ -334,7 +334,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#系统论系统科学哲学",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -385,7 +385,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "54cc36c9e2077970",
@@ -475,11 +475,11 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "dc77f3f605f57eaf",
+  "active": "e2a773bc15391758",
   "lastOpenFiles": [
-    "03permanent/系统论.md",
     "03permanent/系统论与国学渊源.md",
     "07assets/系统论1.jpg",
+    "03permanent/系统论.md",
     "07assets/系统论0.jpg",
     "07assets/系统论2.jpg",
     "08meta/resume.md",

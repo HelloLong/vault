@@ -403,8 +403,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "git-view"
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       },
       {
@@ -435,9 +435,10 @@
   },
   "active": "15021ad55ff3e01d",
   "lastOpenFiles": [
+    "02daily/20260429.md",
+    "03permanent/GRE 3000错题集.md",
     "02daily/20260428.md",
     "未命名.canvas",
-    "03permanent/GRE 3000错题集.md",
     "06templates/daily.md",
     "08meta/resume.md",
     "02daily/20260427.md",

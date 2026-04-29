@@ -218,9 +218,51 @@
               "icon": "lucide-file",
               "title": "GRE 3000错题集"
             }
+          },
+          {
+            "id": "d1c8ed834b989535",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03permanent/系统论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "系统论"
+            }
+          },
+          {
+            "id": "77b02628e4932ab3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03permanent/系统论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "系统论"
+            }
+          },
+          {
+            "id": "e2a773bc15391758",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03permanent/系统论与国学渊源.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "系统论与国学渊源"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 17
       },
       {
         "id": "aee542c4333320ed",
@@ -292,7 +334,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#系统论系统科学哲学",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -343,7 +385,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "54cc36c9e2077970",
@@ -433,17 +475,25 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "15021ad55ff3e01d",
+  "active": "dc77f3f605f57eaf",
   "lastOpenFiles": [
-    "03permanent/ai接入后的卡片笔记.md",
+    "03permanent/系统论.md",
+    "03permanent/系统论与国学渊源.md",
+    "07assets/系统论1.jpg",
+    "07assets/系统论0.jpg",
+    "07assets/系统论2.jpg",
+    "08meta/resume.md",
+    "07assets/系统论3.jpg",
+    "07assets/系统论4.jpg",
+    "未命名",
+    "03permanent/科哲.md",
     "03permanent/GRE 3000错题集.md",
+    "03permanent/ai接入后的卡片笔记.md",
     "02daily/20260429.md",
     "02daily/20260428.md",
     "未命名.canvas",
     "06templates/daily.md",
-    "08meta/resume.md",
     "02daily/20260427.md",
-    "未命名.md",
     "未命名 1.md",
     "06templates/{{date}}.md",
     "02daily/20260425.md",
@@ -464,16 +514,12 @@
     "01inbox/小红书 卡片笔记法 三类笔记.md",
     "01inbox/kimi 如何判断应该进入 literature or permanent.md",
     "01inbox/kimi 关于moc的思考.md",
-    "01inbox/小红书 卡片笔记写作法 工作流程.md",
-    "03permanent/保持健康.md",
-    "03permanent/古老的夏威夷宽恕仪式.md",
     "08archive",
     "06templates",
     "07assets",
     "05projects",
     "03permanent",
     "04moc",
-    "2literature",
-    "01inbox"
+    "2literature"
   ]
 }

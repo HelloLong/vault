@@ -267,12 +267,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02daily/20260430.md",
+                "file": "01inbox/kimi 如何判断应该进入 literature or permanent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260430"
+              "title": "kimi 如何判断应该进入 literature or permanent"
             }
           }
         ],
@@ -491,11 +491,14 @@
   },
   "active": "db18dc8dcfe6bf0b",
   "lastOpenFiles": [
+    "未命名.md",
+    "未命名.base",
     "02daily/20260428.md",
+    "未命名 1.base",
+    "02daily/20260425.md",
     "02daily/20260430.md",
     "03permanent/个人成长 纳瓦尔建议.md",
     "03permanent/GRE 3000错题集.md",
-    "未命名.md",
     "02daily/20260429.md",
     "03permanent/保持健康.md",
     "03permanent/系统论与国学渊源.md",
@@ -514,12 +517,10 @@
     "02daily/20260427.md",
     "未命名 1.md",
     "06templates/{{date}}.md",
-    "02daily/20260425.md",
     "02daily/未命名.md",
     "03permanent/卡片笔记怎么用 Obsidian的笔记怎么设计.md",
     "vault",
     "202604271652.md",
-    "未命名.base",
     "未命名 2.md",
     "03permanent/卡片笔记法核心要点总结_原教旨.md",
     "07assets/ai zettlekasten.jpg",
@@ -528,13 +529,11 @@
     "03permanent/卡片笔记法.md",
     "卡片笔记法.md",
     "03permanent/卡片笔记双向链接的原则.md",
-    "test.md",
     "08archive",
     "06templates",
     "07assets",
     "05projects",
     "03permanent",
-    "04moc",
-    "2literature"
+    "04moc"
   ]
 }

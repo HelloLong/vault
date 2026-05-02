@@ -267,12 +267,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02daily/20260501.md",
+                "file": "03permanent/卡片笔记法优劣分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260501"
+              "title": "卡片笔记法优劣分析"
             }
           }
         ],
@@ -491,8 +491,9 @@
   },
   "active": "db18dc8dcfe6bf0b",
   "lastOpenFiles": [
-    "02daily/20260425.md",
+    "03permanent/ai接入后的卡片笔记.md",
     "02daily/20260501.md",
+    "02daily/20260425.md",
     "未命名.md",
     "02daily/20260430.md",
     "03permanent/GRE 3000错题集.md",
@@ -513,7 +514,6 @@
     "07assets/系统论4.jpg",
     "未命名",
     "03permanent/科哲.md",
-    "03permanent/ai接入后的卡片笔记.md",
     "未命名.canvas",
     "06templates/daily.md",
     "02daily/20260427.md",

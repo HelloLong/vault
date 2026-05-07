@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02daily/20260505.md",
+                "file": "01inbox/小红书 卡片笔记写作法 工作流程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260505"
+              "title": "小红书 卡片笔记写作法 工作流程"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02daily/20260505.md",
+                "file": "01inbox/小红书 卡片笔记写作法 工作流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "20260505 的反向链接列表"
+              "title": "小红书 卡片笔记写作法 工作流程 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02daily/20260505.md",
+                "file": "01inbox/小红书 卡片笔记写作法 工作流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "20260505 的出链列表"
+              "title": "小红书 卡片笔记写作法 工作流程 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02daily/20260505.md",
+                "file": "01inbox/小红书 卡片笔记写作法 工作流程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20260505 的大纲"
+              "title": "小红书 卡片笔记写作法 工作流程 的大纲"
             }
           },
           {
@@ -195,6 +195,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40aec5d2156268e5",
-  "lastOpenFiles": []
+  "active": "a5f20565e47e3cbe",
+  "lastOpenFiles": [
+    "01inbox/小红书 卡片笔记法 三类笔记.md",
+    "07assets/ai zettlekasten.jpg",
+    "07assets/系统论3.jpg",
+    "08meta/resume.md",
+    "07assets/系统论0.jpg",
+    "06templates/daily.md",
+    "02daily/20260507.md",
+    "02daily/20260506.md",
+    "02daily/20260505.md"
+  ]
 }

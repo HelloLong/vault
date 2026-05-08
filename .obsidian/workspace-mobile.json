@@ -281,12 +281,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05projects/卡片笔记法.md",
+                "file": "03permanent/日常单词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "卡片笔记法"
+              "title": "日常单词"
             }
           }
         ],
@@ -505,8 +505,9 @@
   },
   "active": "dd98a6b8591fe4e2",
   "lastOpenFiles": [
-    "04moc/好的家庭教育.md",
     "05projects/卡片笔记法.md",
+    "03permanent/日常单词.md",
+    "04moc/好的家庭教育.md",
     "02daily/20260507.md",
     "02daily/20260506.md",
     "02daily/20260425.md",
@@ -519,7 +520,6 @@
     "02daily/20260505.md",
     "test.txt",
     "//test.txt",
-    "03permanent/日常单词.md",
     "03permanent/GRE 3000错题集.md",
     "02daily/20260504.md",
     "02daily/20260502.md",

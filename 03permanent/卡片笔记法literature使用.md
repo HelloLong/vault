@@ -81,4 +81,4 @@ type: literature-derived
 小红书摘抄这种轻量输入，直接跨桥进 Zettelkasten 更高效。
 
 
-[[03permanent/卡片笔记法]]]()]()
+[[卡片笔记法自我总结]]]()]()

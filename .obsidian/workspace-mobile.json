@@ -295,16 +295,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03permanent/个人成长 纳瓦尔建议.md",
+                "file": "03permanent/好的家庭教育观念.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "个人成长 纳瓦尔建议"
+              "title": "好的家庭教育观念"
+            }
+          },
+          {
+            "id": "2baea9c8b13ce756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03permanent/好的家庭教育心态.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "好的家庭教育心态"
+            }
+          },
+          {
+            "id": "38912b6702102887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03permanent/好的家庭教育理论发展论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "好的家庭教育理论发展论"
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 22
       },
       {
         "id": "aee542c4333320ed",
@@ -376,7 +404,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#好的家庭教育观念",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -517,38 +545,39 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "4c67aeb7edbf1f8c",
+  "active": "38912b6702102887",
   "lastOpenFiles": [
+    "03permanent/好的家庭教育心态.md",
+    "03permanent/好的家庭教育理论发展论.md",
+    "03permanent/好的家庭教育观念.md",
+    "03permanent/系统论.md",
+    "03permanent/卡片笔记法结合ai使用.md",
+    "07assets/ai zettlekasten.jpg",
+    "03permanent/保持健康.md",
+    "06templates/reading_notes.md",
+    "06templates/{{date}}.md",
+    "03permanent/卡片笔记Obsidian使用案例.md",
+    "03permanent/古老的夏威夷宽恕仪式.md",
+    "03permanent/卡片笔记法moc使用.md",
+    "03permanent/纳瓦尔个人成长建议.md",
     "03permanent/科哲.md",
     "03permanent/卡片笔记法literature使用.md",
     "03permanent/卡片笔记法优劣分析.md",
     "03permanent/卡片笔记法实操案例.md",
-    "03permanent/卡片笔记法moc使用.md",
     "03permanent/系统论与国学渊源.md",
     "03permanent/卡片笔记法自我总结.md",
     "03permanent/卡片笔记法核心要点总结_原教旨.md",
     "01inbox/小红书 卡片笔记法 三类笔记.md",
     "04moc/好的家庭教育.md",
     "04moc/卡片笔记法.md",
-    "03permanent/好的家庭教育观念.md",
     "03permanent/GRE 3000错题集.md",
     "02daily/20260508.md",
     "02daily/20260507.md",
     "03permanent/日常单词.md",
-    "05projects/卡片笔记法.md",
-    "02daily/20260506.md",
-    "02daily/20260425.md",
-    "//06templates/daily.md",
     "//06templates",
-    "//02daily/20260506.md",
-    "//02daily/20260505.md",
-    "//02daily/20260507.md",
     "//02daily",
-    "02daily/20260505.md",
     "test.txt",
     "//test.txt",
-    "02daily/20260504.md",
-    "02daily/20260502.md",
     "未命名.base",
     "未命名 1.base",
     "07assets/系统论1.jpg",
@@ -559,7 +588,6 @@
     "未命名",
     "未命名.canvas",
     "vault",
-    "07assets/ai zettlekasten.jpg",
     "07assets/obsidian web clipper.jpg",
     "07assets/Introduction to the Zettelkasten Method.png",
     "08archive",

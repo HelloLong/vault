@@ -323,12 +323,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03permanent/日常单词.md",
+                "file": "03permanent/GRE 3000错题集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "日常单词"
+              "title": "GRE 3000错题集"
             }
           }
         ],
@@ -547,6 +547,7 @@
   },
   "active": "38912b6702102887",
   "lastOpenFiles": [
+    "03permanent/日常单词.md",
     "03permanent/系统论.md",
     "03permanent/好的家庭教育理论发展论.md",
     "03permanent/好的家庭教育观念.md",
@@ -573,7 +574,6 @@
     "04moc/卡片笔记法.md",
     "02daily/20260508.md",
     "02daily/20260507.md",
-    "03permanent/日常单词.md",
     "//06templates",
     "//02daily",
     "test.txt",

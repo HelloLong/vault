@@ -11,14 +11,10 @@
             "id": "40aec5d2156268e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01inbox/小红书 卡片笔记写作法 工作流程.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "小红书 卡片笔记写作法 工作流程"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01inbox/小红书 卡片笔记写作法 工作流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "小红书 卡片笔记写作法 工作流程 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01inbox/小红书 卡片笔记写作法 工作流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "小红书 卡片笔记写作法 工作流程 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -197,6 +191,24 @@
   },
   "active": "51f04a0cc783713d",
   "lastOpenFiles": [
+    "屏幕识别工具.md",
+    "06templates/reading_notes.md",
+    "04moc/卡片笔记法.md",
+    "03permanent/纳瓦尔个人成长建议.md",
+    "03permanent/知识管理.md",
+    "03permanent/汽车小保养包含项目.md",
+    "03permanent/汽车大保养.md",
+    "03permanent/好的家庭教育观念.md",
+    "03permanent/好的家庭教育理论发展论.md",
+    "03permanent/好的家庭教育心态.md",
+    "03permanent/卡片笔记法自我总结.md",
+    "03permanent/卡片笔记法结合ai使用.md",
+    "03permanent/卡片笔记法实操案例.md",
+    "03permanent/卡片笔记法moc使用.md",
+    "03permanent/卡片笔记法literature使用.md",
+    "03permanent/卡片笔记Obsidian使用案例.md",
+    "03permanent/ai 开发模式汇总.md",
+    "02daily/20260508.md",
     "05projects/卡片笔记法.md",
     "05projects",
     "04moc/好的家庭教育.md",
@@ -207,23 +219,9 @@
     "03permanent 1/日常单词.md",
     "03permanent 1/古老的夏威夷宽恕仪式.md",
     "03permanent 1/卡片笔记法核心要点总结_原教旨.md",
-    "03permanent 1/卡片笔记法优劣分析.md",
-    "03permanent 1/卡片笔记法.md",
-    "03permanent 1/卡片笔记怎么用 Obsidian的笔记怎么设计.md",
-    "03permanent 1/卡片笔记双向链接的原则.md",
-    "03permanent 1/保持健康.md",
-    "03permanent 1/个人成长 纳瓦尔建议.md",
-    "03permanent 1/GRE 3000错题集.md",
-    "03permanent 1/ai接入后的卡片笔记.md",
     "03permanent 1",
-    "01inbox/小红书 卡片笔记法 三类笔记.md",
     "07assets/ai zettlekasten.jpg",
     "07assets/系统论3.jpg",
-    "08meta/resume.md",
-    "07assets/系统论0.jpg",
-    "06templates/daily.md",
-    "02daily/20260507.md",
-    "02daily/20260506.md",
-    "02daily/20260505.md"
+    "07assets/系统论0.jpg"
   ]
 }

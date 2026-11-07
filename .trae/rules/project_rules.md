@@ -60,4 +60,4 @@
 
 ## 已有技能
 
-- `update-daily-file`：把感悟写入当天日记的 `#### Summary and Reflection` 下的 `- Thinking`，按来源分组。相关任务优先使用该技能。
+- `daily`：把感悟写入当天日记的 `#### Summary and Reflection` 下的 `- Thinking`，按来源分组。相关任务优先使用该技能。

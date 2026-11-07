@@ -1,9 +1,9 @@
 ---
-name: "update-daily-file"
+name: "daily"
 description: "Update/create today's daily note in 02daily/ — time→Review/Time accounting, plans→Todo/Schedule, summaries→Summary and Reflection, thoughts→Thinking. Invoke when user updates the daily file."
 ---
 
-# Update Daily File
+# Daily
 
 Find or create today's Obsidian daily note and route new content into the correct section based on what the user says.
 

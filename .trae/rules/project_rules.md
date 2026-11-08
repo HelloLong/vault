@@ -53,12 +53,30 @@
 
 ## Git 工作流
 
-- 默认直接提交到 `main` 分支并 push 到 `origin/main`，无需额外确认，也不新建功能分支。
-- 运行环境（Trae 沙箱）可能在克隆后自动切到 `trae/agent-*` 分支并在其上提交；这不是主动建分支。任务结束前需把这些改动 `--ff-only` 合回 `main`、删除该分支，再 push 到 `origin/main`。
-- 删除 `trae/agent-*` 分支（本地及远端 `origin/trae/agent-*`）前，必须先用 `git merge-base --is-ancestor <commit> origin/main` 确认该提交已包含在 main 中，确认后才可删除；远端用 `git push origin --delete <branch>`，随后 `git fetch --prune` 清理本地跟踪引用。
-- 提交前先同步远端 main，避免推送被拒。
-- 提交信息使用中文，沿用 `feat:` / `fix:` / `docs:` 前缀。
-- 只提交与本次任务相关的文件，避免夹带无关改动。
+- 硬性目标：本仓库**只保留 `main` 一条分支**，所有提交最终都在 `origin/main`。任务结束时若还存在 `trae/agent-*` 分支（本地或远端），视为任务未完成。
+- 默认直接提交到 `main` 并 push 到 `origin/main`，无需确认，不主动新建分支。
+- 运行环境（Trae 沙箱）可能在克隆后自动切到 `trae/agent-*` 分支并在其上提交；这不是主动建分支，但**必须在结束任务前收尾**。
+- 收尾必做四步（在任何一次提交之后、回复用户之前执行）：
+
+  ```bash
+  git checkout main
+  git merge --ff-only trae/agent-*      # 不能 ff 说明有分叉，先查清原因，不要强推
+  git branch -d trae/agent-*
+  git push origin main
+  ```
+
+  再清理远端与残留引用：
+
+  ```bash
+  git push origin --delete trae/agent-*   # 远端存在时
+  git fetch --prune origin
+  git update-ref -d refs/remotes/origin/trae/agent-*   # prune 未清掉时
+  ```
+
+- 收尾自检：`git branch -a` 输出中除 `main`、`origin/main` 外不应出现任何分支；`git status -sb` 应显示与 `origin/main` 同步。
+- 删除分支前先用 `git merge-base --is-ancestor <commit> origin/main` 确认该提交已在 main 中，确认后才可删除。
+- 提交前先 `git fetch origin` 并同步 `origin/main`，避免推送被拒。
+- 提交信息使用中文，沿用 `feat:` / `fix:` / `docs:` 前缀；只提交与本次任务相关的文件。
 
 ## 已有技能
 
